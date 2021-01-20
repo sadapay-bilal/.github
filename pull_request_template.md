@@ -21,6 +21,3 @@ How do we know that the merged code can be deployed safely?
 - [ ] There is no behaviour change (e.g. refactoring)
 - [ ] It is additive only
 - [ ] It is behind a feature toggle or disabled in config
-
-## Responsible Engineers
-- _Which engineers have deep knowledge of this change and can answer questions?_
