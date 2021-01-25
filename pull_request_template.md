@@ -1,4 +1,4 @@
-# [SP-XXX](https://sadapay.atlassian.net/browse/SP-XXX)
+# [SP-XXX](https://sadapay.atlassian.net/browse/SP-XXX)/[SP-XXX](https://sadapay.atlassian.net/browse/SP-XXX)
 
 ## Behavior Changes
 - _How has the behavior of the system changed?_
