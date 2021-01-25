@@ -14,7 +14,6 @@ How do you know this change is safe and that new behavior is documented?
 - [ ] TDD
 - [ ] Unit Testing
 - [ ] Integration Testing
-- [ ] Contract Testing
 
 ## Deployability
 How do we know that the merged code can be deployed safely?
