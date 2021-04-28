@@ -19,4 +19,4 @@ How do you know this change is safe and that new behavior is documented?
 How do we know that the merged code can be deployed safely?
 - [ ] There is no behaviour change (e.g. refactoring)
 - [ ] It is additive only
-- [ ] It is behind a feature toggle or disabled in config
+- [ ] It is behind a feature flag
