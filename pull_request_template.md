@@ -16,7 +16,8 @@ How do you know this change is safe and that new behavior is documented?
 - [ ] Integration Testing
 
 ## Deployability
-How do we know that the merged code can be deployed safely?
+How do we know that this code can be deployed safely even if it has not been tested yet?
 - [ ] There is no behaviour change (e.g. refactoring)
 - [ ] It is additive only
 - [ ] It is behind a feature flag
+- [ ] It's not safe - deployment is blocked until this is tested
