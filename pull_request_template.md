@@ -1,4 +1,4 @@
-# [SP-XXX](https://sadapay.atlassian.net/browse/SP-XXX)/[SP-XXX](https://sadapay.atlassian.net/browse/SP-XXX)
+# [XXX-YYY](https://sadapay.atlassian.net/browse/XXX-YYY)/[XXX-ZZZ](https://sadapay.atlassian.net/browse/XXX-ZZZ)
 
 ## Behavior Changes
 - _How has the behavior of the system changed?_
@@ -10,10 +10,10 @@
 - _Are there areas you want reviewers to look at more carefully?_
 
 ## Testing
-How do you know this change is safe and that new behavior is documented?
+How do you know this change is safe and that new behaviour is documented?
 - [ ] TDD
-- [ ] Unit Testing
-- [ ] Integration Testing
+- [ ] Unit testing
+- [ ] Integration testing
 
 ## Deployability
 How do we know that this code can be deployed safely even if it has not been tested yet?
