@@ -1,0 +1,14 @@
+title = "Gitleaks Custom Config"
+[extend]
+useDefault = true
+# An array of tables that contain information that define instructions
+# on how to detect secrets
+
+# Allow lists / suppression rules
+[[rules]]
+    description = "Allow checksums"
+    id = "generic-api-key"
+    [rules.allowlist]
+        paths = [
+  '''Podfile\.lock'''
+]
